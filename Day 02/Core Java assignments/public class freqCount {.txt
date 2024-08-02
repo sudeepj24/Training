@@ -1,0 +1,13 @@
+public class freqCount {
+public static void main (String[] args){
+ String str = "sudeep";
+
+Hashmap<character, Integer> charFreq = new HashMap <>():
+
+for (char c : str.toCharArray()){
+if (charFreq.containsKey(c){
+charFreq.put(c, charFreq.get(c) + 1);
+
+else {
+charFreq.put(c, 1);
+}

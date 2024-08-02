@@ -1,0 +1,44 @@
+Agile: Linear Sequential
+
+Boiler Plate code: Repetative Code
+
+Framework helps reduce boiler plate code
+Replaces coding with configuration
+Provides structure for application
+
+Standup:
+yesterday Update
+Todays task
+Any Blockage
+
+
+Project Backlog: To Do
+
+Scrum Values: Respect others Capability
+
+Scrum Ceremonies:
+1) Sprint Planning
+2) Daily StandUp
+3) Sprint Review
+4) Sprint Retrospective
+
+In a single sprint major changes are not impleneted.
+
+In Sprint ppl Learn from experinces
+
+Single Sprint max duration is 1 month
+
+Story: Something the team can commit to finish within a one- or two-week sprint
+
+Epic is similar user story
+
+Story Points: Higer complexity -> Higher Story Points
+Based on Estimation Techniques
+ 1) Fibonnaci Series
+ 2) TShirt Size
+
+
+
+
+
+

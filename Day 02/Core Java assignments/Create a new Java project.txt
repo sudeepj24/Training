@@ -1,0 +1,20 @@
+//Create a new Java project
+Create a Customer class with:
+At least 2 constructors
+At least 2 overloaded methods
+At least 1 static variable
+At least 1 final variable
+Create a main method in a new class that:
+Creates 2 customers
+Uses each of the Customer class members
+
+public class Customer{
+	int amount;
+	char a;
+ 		
+	public value(int a, int b){
+	
+
+	
+	
+

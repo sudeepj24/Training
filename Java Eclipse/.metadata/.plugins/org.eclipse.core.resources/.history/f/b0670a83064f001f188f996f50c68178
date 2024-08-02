@@ -1,0 +1,17 @@
+package com.revature.emp;
+
+public class Salaried extends Employee{
+//    private int daysPresent;
+//    private double days_present;
+    
+    
+    
+	@Override
+	public void calculateSalary() {
+		// TODO Auto-generated method stub
+		
+	}
+    
+    
+    
+}
