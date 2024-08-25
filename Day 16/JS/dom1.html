@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Example</title>
+</head>
+<body>
+    <h2>This is One</h2>
+    <h2>This is Two</h2>
+    <h2>This is Three</h2>
+    <script>
+        var headings = document.getElementsByTagName("h2");
+        // headings[1].innerHTML="This is two (2)"
+        var someText = headings[1].innerHTML;
+        headings[1].innerHTML=someText+"(2222)"
+    </script>
+</body>
+</html>

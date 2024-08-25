@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example of attribute selector</title>
+        <style>
+            [title]{
+                color:green;
+            }
+            p[lang | = en]{
+                background: blue;
+            }
+            [class*="warning"]{
+                color : red;
+            }
+        </style>
+    </head>
+    <body>
+        <p title="heading"> It is an example for CSS [attribute] Selector</p>
+        <p lang="en">It is an example for CSS [attribute|="value"]</p>
+    </body>
+</html>
